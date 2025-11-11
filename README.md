@@ -119,8 +119,3 @@ Give it a star on GitHub and vote for it on the AUR!
 [![AUR votes](https://img.shields.io/aur/votes/noxboot)](https://aur.archlinux.org/packages/noxboot)
 
 ```
-
----
-
-Would you like me to make a slightly **fancier version** too (with ASCII logo header, badges at top, and one animated GIF demo)? That one would look awesome on your AUR page and GitHub front.
-```
