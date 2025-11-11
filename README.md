@@ -118,4 +118,3 @@ Give it a star on GitHub and vote for it on the AUR!
 [![AUR version](https://img.shields.io/aur/version/noxboot)](https://aur.archlinux.org/packages/noxboot)
 [![AUR votes](https://img.shields.io/aur/votes/noxboot)](https://aur.archlinux.org/packages/noxboot)
 
-```
