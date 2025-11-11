@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+noxboot/__init__.py
+noxboot/cli.py
+noxboot/config.py
+noxboot/core.py
+noxboot/utils.py
+noxboot.egg-info/PKG-INFO
+noxboot.egg-info/SOURCES.txt
+noxboot.egg-info/dependency_links.txt
+noxboot.egg-info/entry_points.txt
+noxboot.egg-info/requires.txt
+noxboot.egg-info/top_level.txt
