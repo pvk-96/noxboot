@@ -114,7 +114,8 @@ Licensed under the **MIT License** — do whatever you want, just don’t make i
 ### ⭐ If you like NoxBoot
 
 Give it a star on GitHub and vote for it on the AUR!
-AUR link: https://aur.archlinux.org/packages/noxboot
+
+** AUR link: https://aur.archlinux.org/packages/noxboot
 
 [![AUR version](https://img.shields.io/aur/version/noxboot)](https://aur.archlinux.org/packages/noxboot)
 [![AUR votes](https://img.shields.io/aur/votes/noxboot)](https://aur.archlinux.org/packages/noxboot)
